@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal Website!"
+title: "Welcome to my personal website!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 Hi.
+
+Nothing quite interesting at the moment...
